@@ -1,0 +1,10 @@
+Django
+supabase
+pandas
+openpyxl
+XlsxWriter
+django-import-export
+python-dotenv
+gunicorn
+psycopg2
+dj-database-url
